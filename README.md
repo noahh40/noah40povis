@@ -8,4 +8,4 @@ I am now searching the :earth_americas: (more specifically NY,NY) for exciting j
 
 :calling: Please reach out if you want to discuss ideas, code, startups or you are interested in working with me. 
 
-[LinkedIn](https://www.linkedin.com/in/noahcp/)  [Twitter](https://twitter.com/technotechkid) 
+[LinkedIn](https://www.linkedin.com/in/noahcp/)  [Twitter](https://twitter.com/technotechkid)  [blog](https://noah40povis.medium.com/)
