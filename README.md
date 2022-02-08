@@ -4,7 +4,7 @@
 :dragon_face: Hi everyone! I am a Software Engineer with interests in blockchain, machine learning, and data. 
 I currently work as SRE engineer at Polygon. 
 
-In addition, I am also building on the Solana blockchain in my spare time! Checkout pixelpond.com
+In addition, I am also building on the Solana blockchain in my spare time on Solana!
 
 
 :calling: Please reach out if you want to discuss ideas, code, startups or you are interested in working with me. 
